@@ -1,0 +1,86 @@
+html {
+  font-family: "Comic Neue", cursive;
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+ line-height: 150%;
+  font-size: 16px;
+  background-color: #f7f7ff;
+  
+}
+
+/* Body Section */
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+.row {
+  display: flex;
+}
+.column {
+  float: left;
+  padding: 5px;
+  height: 100%;
+}
+#info {
+  list-style-type: none;
+  
+}
+#right {
+  background-color: #f7f7ff;
+  width: 75%;
+  padding-left: 50px;
+}
+#left {
+  background-color: #59a5d8;
+  width: 25%;
+  color: white;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 150%;
+  text-decoration-style: none;
+  margin-right: 0;
+}
+#leftimg {
+  width: 100%;
+ padding-top: 10px;
+  height: 100%;
+  object-fit: cover;
+
+  
+  
+  
+}
+
+#certtitle {
+  font-size: 20px;
+}
+#ulcert {
+  text-decoration-style: circle;
+  
+}
+
+.headings {
+  font-size: 20px;
+  color: #59a5d8;
+}
+.jobinfo {
+  font-size: 18px;
+  color: #495867;
+}
+#info {
+  font-size: 20px;
+}
+#skills {
+  font-size: 20px;
+}
+.subheading {
+  font-size: 18px;
+}
+#social {
+   list-style-type: none;
+  
+}
+.ul {
+  text-decoration-style: none;
+}
